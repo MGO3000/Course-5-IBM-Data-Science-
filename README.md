@@ -1,2 +1,2 @@
-# Course-5-IBM-Data-Science-
-Code of course 5 IBM Data Science certifcate
+# Courses-IBM-Data-Science-
+Code of courses IBM Data Science certifcate
